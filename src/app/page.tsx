@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>helloword
       <div>
-        <Button type="primary">Add new</Button>
+        <Button type="primary">Add new post</Button>
       </div>
     </div>
   );
